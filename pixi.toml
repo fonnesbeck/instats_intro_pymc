@@ -43,4 +43,7 @@ python-kaleido = "*"
 jax = ">=0.5.2,<0.6"
 numpyro = ">=0.18.0,<0.19"
 pymc-extras = ">=0.2.5,<0.3"
+marimo = ">=0.13.6,<0.14"
+python-lsp-server = ">=1.12.2,<2"
+pyobsplot = ">=0.5.2,<0.6"
 
