@@ -1,4 +1,4 @@
-# Introduction to Bayesian Statistics with PyMC
+# Introduction to Bayesian Statistics in Python
 
 Bayesian statistical methods offer a powerful set of tools to tackle a wide variety of data science problems. In addition, the Bayesian approach generates results that are easy to interpret and automatically account for uncertainty in quantities that we wish to estimate or predict. Historically, computational challenges have been a barrier, particularly to new users, but there now exists a mature set of probabilistic programming tools that are both capable and easy to learn. We will use the newest release of PyMC (version 5.22 or later), but the concepts and approaches that will be taught are portable to any probabilistic programming framework.
 
